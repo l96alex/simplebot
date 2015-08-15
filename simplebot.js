@@ -229,11 +229,11 @@
     var botCreatorIDs = ["3851534", "4105209"];
 
     var basicBot = {
-        version: "2.8.11",
+        version: "1.0.0",
         status: false,
-        name: "basicBot",
+        name: "simpleBot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
+        scriptLink: "https://raw.githubusercontent.com/l96alex/simplebot/master/simplebot.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
         chat: null,
